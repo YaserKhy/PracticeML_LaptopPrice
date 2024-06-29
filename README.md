@@ -8,4 +8,4 @@ The notebook has 3 sections
 - Data Preprocessing : where we perform multiple approaches to clean data (data wrangling).
 - Models Building and Evaluation : where we build and check the models performance.
 
-[Go To Notebook](https://github.com/YaserKhy/PracticeML_MNIST/blob/main/PracticeML_LaptopPrice.ipynb)
+[Go To Notebook](https://github.com/YaserKhy/PracticeML_LaptopPrice/blob/main/PracticeML_LaptopPrice.ipynb)
